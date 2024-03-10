@@ -1,0 +1,42 @@
+export const data = [
+    {
+        Question: "What is React.js?",
+        option1: "A JavaScript library for building user interfaces",
+        option2: " A server-side scripting language",
+        option3: "A database management system",
+        option4: "A CSS framework",
+        answer: 1,
+    },
+    {
+        Question: "Which of the following is used in React.js to increase performance?",
+        option1: "Virtual DOM",
+        option2: "Original DOM",
+        option3: "Both A and B",
+        option4: "None of the above",
+        answer: 1,
+    },
+    { Question: "What tool can be used for state management in large React.js applications?",
+    option1: "Axios",
+    option2: "MobX",
+    option3: "Redux",
+    option4: "GraphQL",
+    answer: 3,
+      
+    },
+    {
+        Question: "Which library allows seamless integration of Bootstrap with React.js applications?",
+        option1: "Reactstrap",
+        option2: "React-Bootstrap",
+        option3: "BootReact",
+        option4: "Material UI",
+        answer: 2,
+    },
+    {
+        Question: "JSX stands for __________",
+        option1: "Javascript XML",
+        option2: "JSON XML",
+        option3: "JSON",
+        option4: "Javascript and AngularJS",
+        answer: 1,
+    },
+]
